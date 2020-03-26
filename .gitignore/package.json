@@ -1,0 +1,12 @@
+{
+  "name": "urgencesrp",
+  "version": "0.1.0",
+  "description": "Bot pour Urgences RolePlay",
+  "main": "main.js",
+  "repository": "https://github.com/steftony-dev/UrgencesRP.git",
+  "author": "steftony <steftony.message@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
